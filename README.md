@@ -20,6 +20,9 @@ E-commerce businesses generate massive volumes of transactional data daily — b
 
 This dashboard was built to answer all of these questions through a **single interactive Power BI report**.
 
+## Myntra Sales Dashboard Screenshot
+![Myntra Sales Dashboard](https://github.com/ammu105/Myntra-Sales-Dashboard/blob/main/Myntra%20Dashboard%20Picture.png)
+
 ## 📊 Key Performance Indicators (KPIs)
 
 | KPI | Description |
@@ -34,9 +37,6 @@ This dashboard was built to answer all of these questions through a **single int
 | **Avg Discount by Category** | Average discount percentage applied per product category |
 
 ---
-## Myntra Sales Dashboard Screenshot
-![Myntra Sales Dashboard](https://github.com/ammu105/Myntra-Sales-Dashboard/blob/main/Myntra%20Sales%20Dashboard%20Picture.png)
-
 
 ## 💡 Key Business Insights
 
