@@ -35,6 +35,7 @@ This dashboard was built to answer all of these questions through a **single int
 
 ---
 ## Dashboard Screenshot
+![Myntra Sales Dashboard](
 
 
 ## 💡 Key Business Insights
